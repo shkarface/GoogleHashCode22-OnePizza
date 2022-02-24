@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{36E23E32-A421-4ED1-92E5-881824BD38E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePizza", "src\OnePizza\OnePizza.csproj", "{B0C77C26-5000-4ABB-8657-0FA2DABAC49D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C77C26-5000-4ABB-8657-0FA2DABAC49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C77C26-5000-4ABB-8657-0FA2DABAC49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C77C26-5000-4ABB-8657-0FA2DABAC49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C77C26-5000-4ABB-8657-0FA2DABAC49D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0C77C26-5000-4ABB-8657-0FA2DABAC49D} = {36E23E32-A421-4ED1-92E5-881824BD38E1}
+	EndGlobalSection
+EndGlobal
